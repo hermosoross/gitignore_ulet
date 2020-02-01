@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#mga folder ko na hindi dapat i_upload
+/database/
+file_na_hindi_ina_upload
